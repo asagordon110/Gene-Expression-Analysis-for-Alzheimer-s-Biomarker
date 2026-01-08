@@ -1,6 +1,6 @@
 Gene Expression Analysis for Alzheimer’s Disease Biomarkers
-
 Overview
+
 This project investigates gene expression biomarkers associated with Alzheimer’s Disease (AD) using transcriptomic microarray data from the GSE33000 dataset. By applying statistical analysis, dimensionality reduction, clustering, and machine learning models, we explore molecular differences between Alzheimer’s patients and healthy controls and evaluate the feasibility of gene-expression–based classification.
 
 Objectives
@@ -64,17 +64,17 @@ Identified top candidate biomarkers
 
 3. Dimensionality Reduction & Visualization
 
-PCA (Principal Component Analysis):
+PCA (Principal Component Analysis)
 
 Revealed trends indicating separation between AD and control samples
 
-t-SNE (t-distributed Stochastic Neighbor Embedding):
+t-SNE (t-distributed Stochastic Neighbor Embedding)
 
 Improved visualization of local clustering structure
 
 4. Clustering
 
-K-means clustering (k = 2) applied to normalized expression data
+Applied K-means clustering (k = 2) to normalized expression data
 
 Clusters showed partial alignment with clinical diagnosis
 
